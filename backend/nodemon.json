@@ -1,0 +1,12 @@
+{
+    "env": {
+        "DB_HOST": "localhost",
+        "DB_PORT": "27017",
+        "DB_USER": "root",
+        "DB_PASSWORD": "example",
+        "DB_NAME": "test",
+        "JWT_SECRET": "84TI$su7TXEZ!0g#lT",
+        "SERVER_URL": "http://localhost:8080",
+        "SECRET": "gN0!vu@5F9ZurtMG^G"
+    }
+}
